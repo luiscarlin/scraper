@@ -1,0 +1,9 @@
+yarn run v1.15.2
+$ node ./scraper.js
+[ { authors: [ 'Gaiman, Neil' ],
+    title: 'Norse Mythology',
+    format: 'AB' },
+  { authors: [ 'Gaiman, Neil' ],
+    title: 'Norse Mythology',
+    format: 'BK' } ]
+Done in 1.74s.
